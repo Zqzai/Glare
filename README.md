@@ -1,2 +1,2 @@
 # Glare
-3/5 categories were done but not fully finished. I did this cus i'm revamping the bot.
+The folder is named soul because that was the original name I planned for it.
